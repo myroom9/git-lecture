@@ -2,3 +2,5 @@
 testetset
 test
 test
+
+fast-forward
